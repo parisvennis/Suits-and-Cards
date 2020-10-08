@@ -1,10 +1,12 @@
 .card {
-  border: 5px solid black;
+  border: 3px solid black;
   height: 300px;
   width: 200px;
   margin: auto 0%;
   margin-top: 20%;
   margin-left: 20%;
+  background-color: white;
+  border-radius: 15px;
 }
 
 #top {
@@ -20,4 +22,7 @@
   text-align: right;
   padding-right: 5px;
   font-size: 4em;
+}
+body {
+  background-color: green;
 }
